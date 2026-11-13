@@ -1,4 +1,8 @@
-
+<div align="center">
+  <img src="github-banner.png"
+       width="100%"
+       alt="Aishwarya Singh - Computer Science Engineer"/>
+</div>
 <div align="center">
 
 # Hi, I'm Aishwarya Singh! 👋
