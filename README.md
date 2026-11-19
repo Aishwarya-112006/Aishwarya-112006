@@ -223,7 +223,7 @@ A personal portfolio showcasing my technical skills, projects, achievements, and
 
 I regularly practice Data Structures and Algorithms to improve my programming fundamentals and analytical thinking.
 
-- 80+ DSA problems solved using Java (as listed in my resume).
+- 250+ DSA problems solved using Java (as listed in my resume).
 - Practicing on LeetCode and GeeksforGeeks.
 - Focus areas: Arrays, Strings, Linked Lists, Stacks, Queues, Trees and Recursion.
 
